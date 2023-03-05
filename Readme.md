@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Navbar)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Navbar/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Sidebar)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Sidebar/)
 
 ## My process
 
