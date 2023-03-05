@@ -26,7 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Full screen](./images/Website_preview.jpg)
+#### Full Screen
+![Full screen](./images/website_preview.jpg)
+#### Minimised Screen
 ![Minimised screen](./images/Website_preview_2.jpg)
 
 ### Links
@@ -50,6 +52,8 @@ This project helped me recap over some concepts of CSS and JS such as  Event lis
 - classList
 - Class addition and removal
 - toggle
+- transform & translate properties
+
 
 
 ## Author
